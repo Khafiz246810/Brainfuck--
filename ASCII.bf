@@ -1,15 +1,4 @@
-max   == 255
-LF    == 10
-space == 32
-'0'   == 48
-'9'   == 57
-':'   == 58
-Memory: counter
-        ':' space LF
-        char max&1 cmp1 0 0
-        num1 '9'&1 cmp2 0 0
-        num2 '9'&1 cmp3 0 0
-        num3 '9'&1 cmp4 0 0
+
 
 +++++ +++
 [
